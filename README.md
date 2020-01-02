@@ -6,9 +6,9 @@ Algorithms implementation which I made in 2019, during my second semester for Al
 
 ---
 ## List of algorithms
-✔️ Iterator <br/>
-<t/> 🔸 Filter iterator (based on predicate) </br>
-<t/> 🔸 Transform iterator (iterator which transform collection by multiply every element by given value) </br>
+1. ✔️ Iterator <br/>
+   - 🔸 Filter iterator (based on predicate) </br>
+   - 🔸 Transform iterator (iterator which transform collection by multiply every element by given value) </br>
 
 ---
 ## Contact
