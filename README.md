@@ -16,7 +16,10 @@ Algorithms implementation which I made in 2019, during my second semester for Al
    - 🔸 Insert sort </br>
    - 🔸 Select sort </br>
    - 🔸 Shell sort (Shell sort distance, Sedgewick sort distance) </br>
-4. Will be added soon ... 
+4. ✔️ Complex sort algorithms <br/>
+   - 🔸 Quick sort </br>
+   - 🔸 Merge sort </br>
+   - 🔸 Heap sort </br>
 ---
 ## Contact
 Created by [@Ukasz09](https://github.com/Ukasz09) <br/>
