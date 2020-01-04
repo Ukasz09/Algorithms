@@ -9,9 +9,14 @@ Algorithms implementation which I made in 2019, during my second semester for Al
 1. ✔️ Iterator <br/>
    - 🔸 Filter iterator (based on predicate) </br>
    - 🔸 Transform iterator (iterator which transform collection by multiply every element by given value) </br>
-2.✔️ ONP calculator <br/>
+2. ✔️ ONP calculator <br/>
    - 🔸 ONP calculator (addition, subtraction, multiplication, division, exponentiation, roots, log) </br>
-3. Will be available soon ...
+3. ✔️ Simple sort algorithms <br/>
+   - 🔸 Bubble sort </br>
+   - 🔸 Insert sort </br>
+   - 🔸 Select sort </br>
+   - 🔸 Shell sort (Shell sort distance, Sedgewick sort distance) </br>
+4. Will be added soon ... 
 ---
 ## Contact
 Created by [@Ukasz09](https://github.com/Ukasz09) <br/>
