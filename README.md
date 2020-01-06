@@ -20,6 +20,9 @@ Algorithms implementation which I made in 2019, during my second semester for Al
    - 🔸 Quick sort </br>
    - 🔸 Merge sort </br>
    - 🔸 Heap sort </br>
+5. ✔️ Dijkstra's algorithm (Shortest Path First (SPF) -  Finding the shortest paths between nodes in a graph) <br/>
+6. ✔️ Kruskal's algorithm (Finding a minimum spanning tree (MST) for a connected weighted graph ) <br/>
+
 ---
 ## Contact
 Created by [@Ukasz09](https://github.com/Ukasz09) <br/>
